@@ -8,13 +8,13 @@
         "JOBTITLE": "Frontend-Entwickler",
         "LETSTALK": "Kontakt",
         "IAM": "Ich bin",
-        "NAME": "Lucas Liebert",
+        "NAME": "Thomas Mustermann",
         "SCROLLDOWN": "Nach unten →",
         "EMAIL_COPIED": "E-Mail kopiert!"
     },
     "ABOUT": {
         "HEADLINE": "Über mich",
-        "INTRO": "Hallo, ich bin Lucas Liebert, ein Frontend-Entwickler aus Glienicke/Nordbahn, Deutschland. Ich spezialisiere mich auf JavaScript und Angular und habe Erfahrung in der Entwicklung von Webanwendungen, Geschäftsanwendungen, responsiven Websites und Browser-Spielen.",
+        "INTRO": "Hallo, ich bin Thomas Mustermann, ein Frontend-Entwickler aus Berlin, Deutschland. Ich spezialisiere mich auf JavaScript und Angular und habe Erfahrung in der Entwicklung von Webanwendungen, Geschäftsanwendungen, responsiven Websites.",
         "TEXT1": "Ich habe ein solides Fundament in JavaScript und Angular und konzentriere mich auf die Entwicklung ansprechender und funktionaler Webanwendungen. Meine Begeisterung für moderne Webtechnologien treibt mein kontinuierliches Lernen und Wachstum an.",
         "TEXT2": "Ich bleibe ruhig und präzise unter Druck und arbeite effizient. Mein effektives Zeitmanagement hilft mir, Projekte termingerecht abzuschließen, was mein Engagement für Zuverlässigkeit und Wachstum widerspiegelt."
     },
@@ -81,7 +81,7 @@
         "INTRO": "Wir verpflichten uns, Ihre persönlichen Daten zu schützen. Im Folgenden geben wir detaillierte Informationen darüber, wie wir mit Ihren Daten umgehen.",
         "RESPONSIBLE": {
             "TITLE": "1. Verantwortlicher",
-            "DESCRIPTION": "Verantwortlicher für die Datenverarbeitung auf dieser Website ist:<br />Lucas Liebert<br />[Ihre Adresse, falls gewünscht]<br />E-Mail: [Ihre E-Mail-Adresse]"
+            "DESCRIPTION": "Verantwortlicher für die Datenverarbeitung auf dieser Website ist:<br />Thomas Mustermann<br />[Ihre Adresse, falls gewünscht]<br />E-Mail: [Ihre E-Mail-Adresse]"
         },
         "DATA_COLLECTION": {
             "TITLE": "2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck ihrer Verwendung",

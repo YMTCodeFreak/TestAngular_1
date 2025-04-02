@@ -8,13 +8,13 @@
         "JOBTITLE": "Frontend Developer",
         "LETSTALK": "Let's talk!",
         "IAM": "I am",
-        "NAME": "Lucas Liebert",
+        "NAME": "Thomas Mustermann",
         "SCROLLDOWN": "Scroll down →",
         "EMAIL_COPIED": "Email copied!"
     },
     "ABOUT": {
         "HEADLINE": "About me",
-        "INTRO": "Hi, I am Lucas Liebert, a Front-end Developer based in Glienicke/Nordbahn, Germany. I specialize in JavaScript and Angular, with experience in developing web applications, business applications, responsive websites, and browser games.",
+        "INTRO": "Hi, I am Thomas Mustermann, a Front-end Developer based in Berlin, Germany. I specialize in JavaScript and Angular, with experience in developing web applications, business applications, responsive websites.",
         "TEXT1": "I have a solid foundation in JavaScript and Angular, focusing on developing engaging and functional web applications. My enthusiasm for modern web technologies drives my continuous learning and growth.",
         "TEXT2": "I stay calm and precise under pressure, ensuring efficient work. My effective time management helps me complete projects on schedule, reflecting my commitment to reliability and growth."
     },
@@ -81,7 +81,7 @@
         "INTRO": "We are committed to protecting your personal data. Below, we provide detailed information about how we handle your data.",
         "RESPONSIBLE": {
             "TITLE": "1. Responsible Party",
-            "DESCRIPTION": "The party responsible for processing data on this website is:<br />Lucas Liebert<br />[Your address, if desired]<br />Email: [Your email address]"
+            "DESCRIPTION": "The party responsible for processing data on this website is:<br />Thomas Mustermann<br />[Your address, if desired]<br />Email: [Your email address]"
         },
         "DATA_COLLECTION": {
             "TITLE": "2. Collection and Storage of Personal Data and the Nature and Purpose of Their Use",
